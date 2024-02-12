@@ -20,5 +20,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hlozanor&icon=5&color=6)](https://visitcount.itsvg.in)
+[![](https://visitor-badge.laobi.icu/badge?page_id=hlozanor.hlozanor)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
